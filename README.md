@@ -22,7 +22,7 @@ Reset   : To reset with zeroes
 
 ## Demo
 
-- [Google Drive link]([https://github.com/ankurrrai](https://drive.google.com/drive/folders/1zA-yE4BFZOqFgt6DWUbwC36zlMmXhtqB?usp=sharing))
+- [Google Drive link](https://drive.google.com/drive/folders/1zA-yE4BFZOqFgt6DWUbwC36zlMmXhtqB?usp=sharing)
 
 
 ## Contributing
